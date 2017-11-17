@@ -7,4 +7,4 @@ An important concept in programming is learning how to construct while loops.  T
 Please feel free to pull from my Repository and make any changes to the Jupyter notebook as you see fit.  
 
 -Amir
-awsbeginner.com
+http://www.awsbeginner.com
